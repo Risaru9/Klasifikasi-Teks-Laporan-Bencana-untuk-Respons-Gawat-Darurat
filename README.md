@@ -49,8 +49,8 @@ Model dievaluasi menggunakan **Weighted F1-Score** karena data bersifat *imbalan
 Clone Repository ini:
 Bash
 
-```git clone [https://github.com/USERNAME_ANDA/NAMA_REPO.git](https://github.com/USERNAME_ANDA/NAMA_REPO.git)
-```
+```git clone [https://github.com/USERNAME_ANDA/NAMA_REPO.git](https://github.com/USERNAME_ANDA/NAMA_REPO.git)```
+
 Install Library:
 Bash
 
